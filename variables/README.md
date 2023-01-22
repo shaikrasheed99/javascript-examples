@@ -20,7 +20,7 @@ Three ways to define variables in JavaScript.
     const PI = 3.14;
     ```
 
-    * `NOTE:` upparcase is used for `const` variable names.
+    * `NOTE:` uppercase is used for `const` variable names.
 
 3. `var`
     * can be declared and defined multiple times.
@@ -28,5 +28,5 @@ Three ways to define variables in JavaScript.
     ```javascript
     var age = 123;
     ```
-    
+
     * `NOTE:` camel case is used for `var` variable names.
