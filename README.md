@@ -7,3 +7,4 @@ Example codes of JavaScript Topics.
 * [Numbers](./numbers/)
 * [Strings](./strings/)
 * [Booleans](./booleans/)
+* [Comparisions](./comparisions/)
