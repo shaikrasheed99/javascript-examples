@@ -7,7 +7,6 @@ Functions are used to organise the code into separate meaningful blocks to maint
     function nameOfFunction(parameters) {
         //statements
     }
-
     nameOfFunction(arguments) //calling function
     ```
 
@@ -16,7 +15,6 @@ Functions are used to organise the code into separate meaningful blocks to maint
     function greet(avenger) {
         return `Hello, ${avenger}`
     }
-
     greet("ironman")
     ```
 
@@ -25,9 +23,17 @@ Functions are used to organise the code into separate meaningful blocks to maint
     const greet = function(avenger) {
         return `Hello, ${avenger}`
     }
-
     greet("ironman")
     ```
+
+* Default Parameters:
+    ```javascript
+    const greet = function(avenger = "ironman") {
+        return `Hello, ${avenger}`
+    }
+    greet()
+    ```
+
 * Functions vs Methods
     * Functions does not specific to any objects.
     * Methods are specific to objects.
