@@ -17,3 +17,4 @@ Example codes of JavaScript Topics.
 * [For loop](./for-loop/)
 * [While loop](./while-loop/)
 * [Do while loop](./do-while-loop/)
+* [Global & Local scopes](./global-local-scope/)
