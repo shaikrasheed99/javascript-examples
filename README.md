@@ -20,3 +20,4 @@ Example codes of JavaScript Topics.
 * [Global & Local scopes](./global-local-scope/)
 * [Functions](./functions/)
 * [Arrow functions](./arrow-functions/)
+* [Callbacks](./callbacks/)
