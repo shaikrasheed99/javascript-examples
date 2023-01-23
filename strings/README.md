@@ -55,10 +55,14 @@ Strings are one of the data types of JavaScript, where they are used to store se
 * `indexOf('')` - used to get the index of particular character.
     * if the character is present, it will return a number.
     * if the character is not present, it will return `-1` number as result.
+* `lastIndexOd('')` - same as `indexOf()` but finds the last occurrence.
+* `slice()` - used to get the sub string from a string by taking `start` and `end` index values as input.
 
 ```javascript
 let avenger = "Ironman";
 let lowerCaseOfAvenger = avenger.toLowerCase();
 let upperCaseOfAvenger = avenger.toUpperCase();
 let indexOfN = avenger.indexOf("n");
+let lastIndexOfN = avenger.lastIndexOf("n");
+let slicedAvenger = avenger.slice(2, 5);
 ```
