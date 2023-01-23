@@ -4,10 +4,10 @@ Arrow functions are used to define shorter functions as per the syntax.
 
 * Syntax of Arrow function
     ```javascript
-    const greet = (parameter) => {
+    const nameOfFunction = (parameters) => {
         //statements
     };
-    greet(arguments)
+    nameOfFunction(arguments)
     ```
 
 * We can remove the parenthesis `()` if we have only one parameter.
