@@ -18,4 +18,4 @@ let avenger = "ironman";
 let result = number * avenger;
 console.log(result);
 ```
-* Since division operation is happening on invalid operands, JavaScript is assigning `NaN` as result.
+* Since multiplication operation is happening on invalid operands, JavaScript is assigning `NaN` as result.
