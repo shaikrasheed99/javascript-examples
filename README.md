@@ -13,3 +13,6 @@ Example codes of JavaScript Topics.
 * [Type conversions](./type-conversions/)
 * [If-else statements](./if-statements/)
 * [Logical operators](./logical-operators/)
+* [For loop](./for-loop/)
+* [While loop](./while-loop/)
+* [Do while loop](./do-while-loop/)
