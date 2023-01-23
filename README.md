@@ -2,6 +2,6 @@
 
 Example codes of JavaScript Topics. 
 
-### Table of Contents
+## Table of Contents
 * [Variables](./variables/)
 * [Numbers](./numbers/)
