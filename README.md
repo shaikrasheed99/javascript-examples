@@ -12,6 +12,7 @@ Example codes of JavaScript Topics.
 * [Loose & Strict comparisions](./loose-strict-comparision/)
 * [Type conversions](./type-conversions/)
 * [If-else statements](./if-statements/)
+* [Switch statements](./switch-statements/)
 * [Logical operators](./logical-operators/)
 * [For loop](./for-loop/)
 * [While loop](./while-loop/)
