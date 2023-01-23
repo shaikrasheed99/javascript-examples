@@ -6,3 +6,4 @@ Example codes of JavaScript Topics.
 * [Variables](./variables/)
 * [Numbers](./numbers/)
 * [Strings](./strings/)
+* [Booleans](./booleans/)
