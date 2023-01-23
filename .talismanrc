@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: if-statements/passwordChecker.js
+  checksum: 08a7ebe596df86d696bbf3f3ede69b865bed47110521b66939a15ebf7ef6b47b
+version: ""
