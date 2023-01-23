@@ -19,3 +19,4 @@ Example codes of JavaScript Topics.
 * [Do while loop](./do-while-loop/)
 * [Global & Local scopes](./global-local-scope/)
 * [Functions](./functions/)
+* [Arrow functions](./arrow-functions/)
