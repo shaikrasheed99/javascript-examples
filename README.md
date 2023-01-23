@@ -10,3 +10,4 @@ Example codes of JavaScript Topics.
 * [Comparisions](./comparisions/)
 * [Null & Undefined](./null-undefined/)
 * [Loose & Strict comparisions](./loose-strict-comparision/)
+* [Type conversions](./type-conversions/)
