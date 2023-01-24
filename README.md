@@ -24,3 +24,4 @@ Example codes of JavaScript Topics.
 * [Callbacks](./callbacks/)
 * [For each loop](./for-each-loop/)
 * [Objects](./objects/)
+* [Primitive & Reference types](./primitive-reference-types/)
