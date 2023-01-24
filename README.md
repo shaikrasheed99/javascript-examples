@@ -22,3 +22,4 @@ Example codes of JavaScript Topics.
 * [Arrays](./arrays/)
 * [Arrow functions](./arrow-functions/)
 * [Callbacks](./callbacks/)
+* [For each loop](./for-each-loop/)
