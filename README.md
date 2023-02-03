@@ -26,3 +26,4 @@ Example codes of JavaScript Topics.
 * [Objects](./objects/)
 * [Primitive & Reference types](./primitive-reference-types/)
 * [Filter method](./filter-method/)
+* [Map method](./map-method/)
