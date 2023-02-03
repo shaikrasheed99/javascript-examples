@@ -3,12 +3,19 @@
 Example codes of JavaScript Topics. 
 
 ## Table of Contents
-* [Variables](./variables/)
-* [Numbers](./numbers/)
-* [Strings](./strings/)
-* [Booleans](./booleans/)
-* [Null & Undefined](./null-undefined/)
-* [Type conversions](./type-conversions/)
+
+* Introduction
+    * [Variables](./variables/)
+
+* Data Types
+    * [Numbers](./numbers/)
+    * [Strings](./strings/)
+    * [Booleans](./booleans/)
+    * [Null & Undefined](./null-undefined/)
+    * [Primitive & Reference types](./primitive-reference-types/)
+    * [Type conversions](./type-conversions/)
+    * [Arrays](./arrays/)
+    * [Objects](./objects/)
 
 * Control flow
     * [If-else statements](./if-statements/)
@@ -16,6 +23,7 @@ Example codes of JavaScript Topics.
     * [Logical operators](./logical-operators/)
     * [Comparisions](./comparisions/)
     * [Loose & Strict comparisions](./loose-strict-comparision/)
+    * [Global & Local scopes](./global-local-scope/)
 
 * Loops
     * [For loop](./for-loop/)
@@ -23,13 +31,11 @@ Example codes of JavaScript Topics.
     * [Do while loop](./do-while-loop/)
     * [For each loop](./for-each-loop/)
 
-* [Global & Local scopes](./global-local-scope/)
-* [Arrays](./arrays/)
-* [Objects](./objects/)
-* [Functions](./functions/)
-* [Arrow functions](./arrow-functions/)
-* [Callbacks](./callbacks/)
-* [Primitive & Reference types](./primitive-reference-types/)
+
+* Functions
+    * [Functions](./functions/)
+    * [Arrow functions](./arrow-functions/)
+    * [Callbacks](./callbacks/)
 
 * Array methods
     * [Filter method](./filter-method/)
