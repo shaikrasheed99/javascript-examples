@@ -10,7 +10,7 @@ It will return the new array by not changing the original array.
 
 * Syntax:
     ```javascript
-    Array.filter((parameter) => {
+    const newArray = Array.filter((parameter) => {
         return // boolean expression;
     });
     ```
