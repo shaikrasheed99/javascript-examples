@@ -25,3 +25,4 @@ Example codes of JavaScript Topics.
 * [For each loop](./for-each-loop/)
 * [Objects](./objects/)
 * [Primitive & Reference types](./primitive-reference-types/)
+* [Filter method](./filter-method/)
