@@ -44,3 +44,4 @@ Example codes of JavaScript Topics.
     * [Sort method](./sort-method/)
     * [Some method](./some-method/)
     * [Every method](./every-method/)
+    * [Chaining array methods](./chaining-array-methods/)
