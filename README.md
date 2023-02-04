@@ -42,3 +42,4 @@ Example codes of JavaScript Topics.
     * [Map method](./map-method/)
     * [Reduce method](./reduce-method/)
     * [Sort method](./sort-method/)
+    * [Some method](./some-method/)
