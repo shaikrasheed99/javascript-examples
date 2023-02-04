@@ -41,3 +41,4 @@ Example codes of JavaScript Topics.
     * [Filter method](./filter-method/)
     * [Map method](./map-method/)
     * [Reduce method](./reduce-method/)
+    * [Sort method](./sort-method/)
