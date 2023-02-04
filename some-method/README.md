@@ -6,7 +6,7 @@ If the applied condition is satisfied by any of the element, then it will return
 
 * Syntax:
     ```javascript
-    Array.some((element) => {
+    const isElementGreaterThanHundred = Array.some((element) => {
         return // condition
     });
     ```
