@@ -31,6 +31,7 @@ Example codes of JavaScript Topics.
     * [Do while loop](./do-while-loop/)
     * [For each loop](./for-each-loop/)
     * [For of](./for-of/)
+    * [For in](./for-in/)
 
 
 * Functions
