@@ -1,4 +1,4 @@
-# JavaScript - For of loop
+# JavaScript - For in loop
 
 For in loop is also used to traverse the objects, arrys, strings etc...
 
