@@ -32,6 +32,7 @@ Example codes of JavaScript Topics.
     * [For each loop](./for-each-loop/)
     * [For of](./for-of/)
     * [For in](./for-in/)
+    * [Difference between for-of and for-in loops](./difference-between-for-of-and-for-in/)
 
 
 * Functions
