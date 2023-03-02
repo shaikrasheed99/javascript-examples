@@ -8,10 +8,18 @@ It provides `.then()` to handle resolve and `.catch()` to handle reject operatio
 
 * Example of promise
     ```javascript
+    const hasRightToVote = (age) => {
+        return new Promise((resolve, reject) => {
+            // statements
+            resolve("You can vote!")
+            reject("Please enter valid age!");
+        });
+    };
+
     hasRightToVote(120).then(data => {
-        console.log(data);
+        // statements
     }).catch((error) => {
-        console.log(error);
+        // statements
     })
     ```
 
