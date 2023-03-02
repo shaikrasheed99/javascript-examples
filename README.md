@@ -51,3 +51,4 @@ Example codes of JavaScript Topics.
 
 * Asynchronous
     * [Callback hell](./callback-hell/)
+    * [Promise](./promise/)
