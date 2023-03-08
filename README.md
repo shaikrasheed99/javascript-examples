@@ -54,3 +54,6 @@ Example codes of JavaScript Topics.
     * [Promise](./promise/)
     * [Chaining promises](./chaining-promises/)
     * [Async & Await](./async-await/)
+
+* ES6 Features
+    * [Rest operator](./rest-operator/)
