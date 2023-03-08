@@ -58,3 +58,4 @@ Example codes of JavaScript Topics.
 * ES6 Features
     * [Rest parameters](./rest-parameters/)
     * [Spread operator](./spread-operator/)
+    * [Destructuring objects](./destructuring-objects/)
