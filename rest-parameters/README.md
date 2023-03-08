@@ -1,6 +1,6 @@
-# JavaScript - Rest operator
+# JavaScript - Rest parameters
 
-Rest operator is denoted by three dots `...`
+Rest parameters is denoted by three dots `...`
 
 It is used to represent an indefinite number of arguments as an array. 
 
