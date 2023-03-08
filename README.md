@@ -56,5 +56,5 @@ Example codes of JavaScript Topics.
     * [Async & Await](./async-await/)
 
 * ES6 Features
-    * [Rest operator](./rest-operator/)
+    * [Rest parameters](./rest-parameters/)
     * [Spread operator](./spread-operator/)
