@@ -57,3 +57,4 @@ Example codes of JavaScript Topics.
 
 * ES6 Features
     * [Rest operator](./rest-operator/)
+    * [Spread operator](./spread-operator/)
